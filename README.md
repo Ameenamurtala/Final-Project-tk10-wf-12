@@ -1,18 +1,8 @@
 # Final Project
 
-Complete your final project in this Replit.
-
-
-You’ve learned a ton about HTML, CSS, and the web in this course. The final project is your chance to build a website of your own design from scratch.
-
-[Click the Instructions.md tab for instructions.]
-
-[Update this file to describe your project! You can remove the instrcutions in the brackets]
-
 ## Project Authors
-- [Your name here]
-- [Your name here]
-- [Your name here]
+- [Amina Murtala]
+- [Elijah Umunnabuike]
 
 ## Description
-[Any notes you'd like people to know about your project]
+Humbly presenting a collaborative effort, we've designed a product catalog using HTML and CSS. With a collective commitment to user-friendly design, our catalog offers an engaging showcase of diverse products. Explore the collaborative craftsmanship and enjoy the seamless browsing exxperience crafted by our team.
